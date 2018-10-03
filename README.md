@@ -1,1 +1,5 @@
-Jagger D'Ugo, JaggerD7932@hstat.org, HSTAT,
+Jagger D'Ugo
+JaggerD7932@hstat.org
+HSTAT
+""
+Scchedule:
