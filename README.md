@@ -8,7 +8,7 @@ He likes pizza, **and** running around and screaming.
 Schedule:  
 1. Physics/Gym
     * Mondays and Tuesdays: _Physics_  
-    * Wednesdays, Thrusdays and Fridays: _Gym_  
+    * Wednesdays, Thursdays and Fridays: _Gym_  
 2. Physics  
 3. SEP  
 4. English   
